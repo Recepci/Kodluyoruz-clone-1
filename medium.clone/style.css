@@ -1,0 +1,20 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.navbar-start{
+    background-color: #C4E2FF;
+  
+}
+.navbar-just{ 
+     border-bottom: 1px solid rgb(41,41,41);
+}
+.rounded-pill{
+    border: 1px solid rgb(41,41,41);
+}
+ul>li{
+    list-style-type: none;
+}
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
